@@ -1,0 +1,6 @@
+server:
+  servlet:
+    contextPath: /jlg
+
+service:
+  environment: ${APP_ENV:Local}
